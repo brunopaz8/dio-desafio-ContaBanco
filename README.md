@@ -1,18 +1,52 @@
-## Getting Started
+## 🏦 Desafio Conta Bancária em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte de um **desafio de código proposto pela DIO**, com o objetivo de praticar a **estrutura básica de classes e entrada de dados em Java**.
 
-## Folder Structure
+## 💡 Proposta
 
-The workspace contains two folders by default, where:
+Este repositório contém um programa simples que simula a criação de uma conta bancária. O sistema lê os dados do titular e o saldo inicial, e imprime um resumo formatado com as informações da conta.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 🛠️ Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* **Java 17+**
+  - Entrada de dados via `Scanner`
+  - Programação orientada a objetos (básica)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### 🧠 Funcionalidades
 
-## Dependency Management
+* Leitura do nome do titular da conta.
+* Leitura do saldo inicial.
+* Impressão de um resumo da conta com as informações formatadas.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 📂 Estrutura
+
+* `src/ContaTerminal.java`: Contém toda a lógica do programa, com entrada de dados pelo terminal e exibição da mensagem final.
+
+
+## 🚀 Como Executar o Projeto
+
+1️⃣ **Clone o repositório:**
+
+```bash
+git clone https://github.com/brunopaz8/dio-desafio-ContaBanco.git
+```
+
+2️⃣ **Navegue até o diretório do projeto:**
+
+```bash
+cd dio-desafio-ContaBanco
+```
+
+3️⃣ **Compile o arquivo Java:**
+
+```bash
+javac src/ContaTerminal.java
+```
+
+4️⃣ **Execute o programa:**
+
+```bash
+java App
+```
+
+> Certifique-se de ter o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) instalado na sua máquina.
