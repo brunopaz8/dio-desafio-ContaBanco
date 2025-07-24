@@ -22,7 +22,7 @@ Este repositório contém um programa simples que simula a criação de uma cont
 
 * **Leitura** do nome do titular da conta.
 * **Leitura** do saldo inicial.
-* Impressão de um resumo da conta com as informações formatadas.
+* **Impressão** de um resumo da conta com as informações formatadas.
 
 ---
 
