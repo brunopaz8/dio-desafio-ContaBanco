@@ -32,14 +32,14 @@ Este repositório contém um programa simples que simula a criação de uma cont
 dio-desafio-ContaBanco/
 ├── src/
 │   ├── App.java
-│   ├── contaBanco.java
+│   └── contaBanco.java
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto:
 
 1️⃣ **Clone o repositório:**
 
