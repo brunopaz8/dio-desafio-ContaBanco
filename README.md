@@ -32,7 +32,7 @@ Este repositório contém um programa simples que simula a criação de uma cont
 dio-desafio-ContaBanco/
 ├── src/
 │   ├── App.java
-│   ├── contaBanco
+│   ├── contaBanco.java
 ├── .gitignore
 └── README.md
 ```
@@ -56,7 +56,7 @@ cd dio-desafio-ContaBanco
 3️⃣ **Compile o arquivo Java:**
 
 ```bash
-javac src/contaBanco.java
+javac contaBanco.java App.java
 ```
 
 4️⃣ **Execute o programa:**
